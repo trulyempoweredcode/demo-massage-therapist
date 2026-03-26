@@ -1,6 +1,6 @@
 /* =============================================
-   THEME: Rich Forest
-   Earthy, grounding — massage, bodywork, holistic wellness
+   THEME: Warm Mocha
+   Rich, inviting — massage, bodywork, holistic wellness
    Font Pairing: Friendly (Nunito + Open Sans)
    ============================================= */
 
@@ -10,30 +10,30 @@
 /* --- Theme Variables --- */
 :root {
   /* Colour Palette */
-  --color-primary: #2D5F3E;
-  --color-primary-light: #4A7D5A;
-  --color-primary-dark: #1A3D28;
-  --color-secondary: #C9A24E;
-  --color-secondary-light: #D4B76E;
-  --color-secondary-dark: #A07C2E;
-  --color-accent: #B86B4A;
+  --color-primary: #6B4226;
+  --color-primary-light: #8B5E3C;
+  --color-primary-dark: #4A2E1A;
+  --color-secondary: #C8976B;
+  --color-secondary-light: #D4AB85;
+  --color-secondary-dark: #A07848;
+  --color-accent: #B8704A;
   --color-accent-light: #CC8A6E;
 
-  --color-bg: #F9F6F2;
-  --color-bg-alt: #EDE8E0;
-  --color-bg-dark: #1A2E20;
+  --color-bg: #FAF7F4;
+  --color-bg-alt: #F0EAE3;
+  --color-bg-dark: #2C1E14;
   --color-surface: #FFFFFF;
-  --color-surface-alt: #F4F0EA;
+  --color-surface-alt: #F5F0EB;
 
-  --color-text: #2E3830;
-  --color-text-light: #5C6860;
-  --color-text-inverse: #F9F6F2;
-  --color-text-heading: #1A2E20;
+  --color-text: #3A2E26;
+  --color-text-light: #6B5D53;
+  --color-text-inverse: #FAF7F4;
+  --color-text-heading: #2C1E14;
 
-  --color-border: #D4CEC4;
-  --color-border-light: #E6E1D8;
+  --color-border: #D9CFC5;
+  --color-border-light: #EAE3DA;
 
-  --color-success: #4A7D5A;
+  --color-success: #5A7D4A;
   --color-error: #B84A3A;
 
   /* Typography */
