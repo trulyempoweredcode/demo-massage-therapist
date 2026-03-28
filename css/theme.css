@@ -60,3 +60,10 @@
 .testimonial--standalone .testimonial__stars {
   justify-content: center;
 }
+
+/* Portrait image — taller on desktop */
+@media (min-width: 768px) {
+  .intro__image-wrap {
+    min-height: 550px;
+  }
+}
