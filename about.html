@@ -117,8 +117,7 @@
     <!-- SECTION: about-hero -->
     <section class="about-hero">
       <div class="container about-hero__inner">
-        <div class="about-hero__image-wrap">
-          <img src="images/about-portrait.jpg" alt="Emma Hart, massage therapist at Emma Hart Massage Therapy" class="about-hero__image" width="600" height="800" loading="lazy">
+        <div class="about-hero__image-wrap" style="background-image: url('images/about-portrait.jpg');" role="img" aria-label="Emma Hart, massage therapist at Emma Hart Massage Therapy">
         </div>
         <div class="about-hero__content">
           <span class="section-label">About Me</span>
@@ -365,7 +364,7 @@
   <div class="cookie-banner" role="dialog" aria-label="Cookie consent">
     <div class="cookie-banner__inner">
       <p class="cookie-banner__text">We use cookies to improve your experience. See our <a href="cookies-policy.html">cookie policy</a> for details.</p>
-      <button class="cookie-banner__accept">Accept</button>
+      <div class="cookie-banner__buttons"><button class="cookie-banner__accept">Accept</button><button class="cookie-banner__decline">Decline</button></div>
     </div>
   </div>
 
